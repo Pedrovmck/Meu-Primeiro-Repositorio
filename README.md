@@ -1,2 +1,2 @@
-# Meu-Primeiro-Reposit-rio
+# Meu-Primeiro-Repositório
 É literalmente só o meu primeiro repositório
